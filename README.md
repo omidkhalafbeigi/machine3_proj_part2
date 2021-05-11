@@ -1,1 +1,1 @@
-# machine3_proj_part2
+# Machine 3 Project (Part 2)
